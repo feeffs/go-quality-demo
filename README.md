@@ -1,4 +1,4 @@
-# go-quality-demo
+# Go code quality (go-quality-demo)
 
 Демонстрации инструментов контроля качества кода на Go.
 
