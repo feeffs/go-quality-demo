@@ -1,0 +1,14 @@
+# Binaries
+*.exe
+*.out
+
+# Test artifacts
+coverage.out
+testdir/
+
+# IDE
+.idea/
+.vscode/
+
+# Go
+vendor/
